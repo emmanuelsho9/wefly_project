@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587680693093",
+    "project_id": "weflytest-b601c",
+    "storage_bucket": "weflytest-b601c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587680693093:android:1778b996c6aa6046a6ff8c",
+        "android_client_info": {
+          "package_name": "com.example.wefly_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587680693093-pt2ku8u2bbk40gga7fimd9ci2ggm6rrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4aTpgW3tb6lpSBZy1VrXVfFBM9LAlb8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587680693093-pt2ku8u2bbk40gga7fimd9ci2ggm6rrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
